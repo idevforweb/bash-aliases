@@ -1,7 +1,7 @@
 #### .bash_alises commands
 alias edit.aliases='cd && vim .bash_aliases'
 alias read.aliases='cd && cat .bash_aliases'
-alias update.aliases='cd ; cp .bash_aliases ./Desktop/bash-aliases-repo ; cat ~/Desktop/bash-aliases-repo/.bash_aliases ; cd ~/Desktop/bash-aliases-repo ; git status; echo Updated'
+alias update.aliases='cd ; cp .bash_aliases ./Desktop/bash-aliases-repo ; cat ~/Desktop/bash-aliases-repo/.bash_aliases ; cd ~/Desktop/bash-aliases-repo ; git status; echo Updated Aliases. Ready to Push'
 
 #### xclip copies
 alias clip.push="xclip -selection clipboard -i < ~/Desktop/cp/git-push-aliases.txt"
