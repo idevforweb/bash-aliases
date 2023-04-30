@@ -1,9 +1,7 @@
-### test
-
 #### .bash_alises commands
 alias write.aliases='cd && nano .bash_aliases'
 alias read.aliases='cd && cat .bash_aliases'
-alias update.aliases='cd ; cp .bash_aliases ./Desktop/bash-aliaes-repo ; cat ~/Desktop/bash-aliaes-repo/.bash_aliases'
+alias update.aliases='cd ; cp .bash_aliases ./Desktop/bash-aliases-repo ; cat ~/Desktop/bash-aliases-repo/.bash_aliases ; cd ~/Desktop/bash-aliases-repo ; git status'
 
 
 alias cd.learning='cd /media/webdevhead1/WDC\ External/learning'
